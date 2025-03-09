@@ -1,3 +1,4 @@
+from _typeshed import IdentityFunction
 from abc import ABC, abstractclassmethod, abstractmethod
 from datetime import datetime
 
@@ -63,7 +64,7 @@ class Conta:
           print("Saldo insuficiente!")  # Mensagem de erro
           return False  # Indica que o saque não foi realizado
 
-
+g
      
 
 
