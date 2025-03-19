@@ -1,0 +1,1 @@
+O Sistema Bancário é um projeto desenvolvido para praticar conceitos de Programação Orientada a Objetos (POO), como classes, herança, encapsulamento e polimorfismo. O sistema permite a gestão de contas bancárias, possibilitando operações básicas como criação de contas, depósitos, saques .
